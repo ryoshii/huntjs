@@ -9,6 +9,7 @@ mongoose.connect("mongodb://localhost:27017/huntjs", {
   useNewUrlParser: true,
   useUnifiedTopology: true
 });
+mongoose.set('useFindAndModify', false);
 
 requireDir("./src/models");
 
