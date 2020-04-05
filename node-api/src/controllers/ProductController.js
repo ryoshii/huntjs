@@ -31,5 +31,9 @@ module.exports = {
     return response.json(product);
   },
 
-  async destroy(request, response) {},
+  async destroy(request, response) {
+    await Product.findByIdAndRemove(request.params.id);
+
+    return response.send();
+  },
 };
