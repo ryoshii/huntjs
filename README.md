@@ -35,7 +35,7 @@ Ps: Para uso do insomnia, existe o arquivo insomnia.json para import.
 - [x] Criar Header
 - [x] Buscando produtos da API
 - [x] Armazenamento do estado
-- [ ] Listando produtos
+- [x] Listando produtos
 - [ ] Página anterior / próxima
 - [ ] Configurando navegação
 - [ ] Navegação para o detalhe
