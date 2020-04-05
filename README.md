@@ -37,8 +37,8 @@ Ps: Para uso do insomnia, existe o arquivo insomnia.json para import.
 - [x] Armazenamento do estado
 - [x] Listando produtos
 - [x] Página anterior / próxima
-- [ ] Configurando navegação
-- [ ] Navegação para o detalhe
+- [x] Configurando navegação
+- [x] Navegação para o detalhe
 
 ### Mobile
 
