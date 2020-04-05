@@ -1,8 +1,8 @@
 # huntjs
 ## Tasks
 ### Node - API
-- [ ]  Criar estrutura
-- [ ]  Rotas
+- [x]  Criar estrutura
+- [x]  Rotas
 - [ ]  Nodemon
 - [ ]  MongoDB
 - [ ]  Conectar database
