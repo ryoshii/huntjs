@@ -31,7 +31,7 @@ Ps: Para uso do insomnia, existe o arquivo insomnia.json para import.
 - [x] Adicionando CORS
 
 ### Web
-
+- [x] Criar estrutura
 - [ ] Criar Header
 - [ ] Buscando produtos da API
 - [ ] Armazenamento do estado
