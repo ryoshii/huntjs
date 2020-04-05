@@ -28,7 +28,7 @@ Ps: Para uso do insomnia, existe o arquivo insomnia.json para import.
 - [x] Criação de registro
 - [x] CRUD
 - [x] Paginação da lista
-- [ ] Adicionando CORS
+- [x] Adicionando CORS
 
 ### Web
 
