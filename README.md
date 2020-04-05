@@ -11,6 +11,8 @@ npm install
 npm run dev
 </code></pre>
 
+Ps: Para uso do insomnia, existe o arquivo insomnia.json para import.
+
 ## Tasks
 
 ### Node - API
@@ -21,8 +23,8 @@ npm run dev
 - [x] MongoDB
 - [x] Conectar database
 - [x] Criar model de produto
-- [ ] Reestruturação de arquivos
-- [ ] Utilizando Insomnia
+- [x] Reestruturação de arquivos
+- [x] Utilizando Insomnia
 - [ ] Criação de registro
 - [ ] CRUD
 - [ ] Paginação da lista
