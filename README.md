@@ -20,7 +20,7 @@ npm run dev
 - [x] Nodemon
 - [x] MongoDB
 - [x] Conectar database
-- [ ] Criar model de produto
+- [x] Criar model de produto
 - [ ] Reestruturação de arquivos
 - [ ] Utilizando Insomnia
 - [ ] Criação de registro
