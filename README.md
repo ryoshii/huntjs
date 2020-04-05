@@ -32,7 +32,7 @@ Ps: Para uso do insomnia, existe o arquivo insomnia.json para import.
 
 ### Web
 - [x] Criar estrutura
-- [ ] Criar Header
+- [x] Criar Header
 - [ ] Buscando produtos da API
 - [ ] Armazenamento do estado
 - [ ] Listando produtos
