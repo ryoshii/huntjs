@@ -3,7 +3,7 @@
 ### Node - API
 - [x]  Criar estrutura
 - [x]  Rotas
-- [ ]  Nodemon
+- [x]  Nodemon
 - [ ]  MongoDB
 - [ ]  Conectar database
 - [ ]  Criar model de produto
