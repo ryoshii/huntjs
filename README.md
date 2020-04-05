@@ -1,23 +1,15 @@
 # huntjs
 
-## Instalação
+## Instalação / Uso
+
 ### Node - API
-<code>
-<pre>
+<pre><code>
 docker pull mongo
 docker run --name mongodb -p 27017:27017
 cd node-api
+npm install
 npm run dev
-</pre>
-</code>
-
-## Uso
-
-### Node - API
-
-<code>
-npm run dev
-</code>
+</code></pre>
 
 ## Tasks
 
@@ -27,7 +19,7 @@ npm run dev
 - [x] Rotas
 - [x] Nodemon
 - [x] MongoDB
-- [ ] Conectar database
+- [x] Conectar database
 - [ ] Criar model de produto
 - [ ] Reestruturação de arquivos
 - [ ] Utilizando Insomnia
