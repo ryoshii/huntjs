@@ -11,16 +11,6 @@ mongoose.connect("mongodb://localhost:27017/huntjs", {
 
 requireDir("./src/models");
 
-const Product = mongoose.model("Product");
-
-app.get("/", (request, response) => {
-  Product.create({
-    title: "React Native",
-    description: "Build native apps with React",
-    url: "http://github.com/facebook/react-native"
-  });
-
-  response.send("Hello");
-});
+app.use("/api", require("./src/routes"));
 
 app.listen("3001");
