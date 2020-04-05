@@ -25,7 +25,7 @@ Ps: Para uso do insomnia, existe o arquivo insomnia.json para import.
 - [x] Criar model de produto
 - [x] Reestruturação de arquivos
 - [x] Utilizando Insomnia
-- [ ] Criação de registro
+- [x] Criação de registro
 - [ ] CRUD
 - [ ] Paginação da lista
 - [ ] Adicionando CORS
